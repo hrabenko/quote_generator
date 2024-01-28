@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from "react";
 
-import twitterIcon from "../twitter.svg"
-import tumblrIcon from "../tumblr.svg"
+import twitterIcon from "../img/twitter.svg"
+import tumblrIcon from "../img/tumblr.svg"
 
 const Quotes = () => {
     const [quote, setQuote] = useState('');
